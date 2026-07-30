@@ -10,15 +10,19 @@ Disclosing AI-generated content means telling your audience when content was cre
 
 ## What is inside
 
-- `01-why-disclose.md` the trust and legal reasons.
-- `02-when-disclosure-is-required.md` the rules taking shape.
-- `03-how-to-disclose.md` doing it clearly and proportionately.
-- `04-what-not-to-do.md` the failures that break trust or rules.
-- `05-a-practical-policy.md` a simple disclosure policy to adopt.
+- [01-why-disclose.md](01-why-disclose.md) the trust and legal reasons.
+- [02-when-disclosure-is-required.md](02-when-disclosure-is-required.md) the rules taking shape.
+- [03-how-to-disclose.md](03-how-to-disclose.md) doing it clearly and proportionately.
+- [04-what-not-to-do.md](04-what-not-to-do.md) the failures that break trust or rules.
+- [05-a-practical-policy.md](05-a-practical-policy.md) a simple disclosure policy to adopt.
 
 ## The stance
 
 This reference treats honesty as the safe default. When in doubt, disclose. The cost of disclosing is small; the cost of being caught passing AI work off as human, whether by an audience or a regulator, is much larger.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
